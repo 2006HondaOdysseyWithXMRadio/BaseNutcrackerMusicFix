@@ -1,0 +1,9 @@
+{
+    "name": "BaseNutcrackerMusicFix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/2006HondaOdysseyWithXMRadio/BaseNutcrackerMusicFix",
+    "description": "Base plugin for mods that change the Nutcracker's song",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
